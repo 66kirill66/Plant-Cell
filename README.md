@@ -25,5 +25,5 @@ The full simulation with assets and deployment resources is part of a private re
 
 ---
 
-> Created by **Kirill Makarov** | Unity Developer focused on educational simulations.  
+> Created by **Kirill Makarov** | Unity Developer passionate about building educational simulations and innovative game mechanics that deliver interactive and fun experiences.
 > Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/kirill-makarov-13965222a) or [GitHub](https://github.com/66kirill66).  
