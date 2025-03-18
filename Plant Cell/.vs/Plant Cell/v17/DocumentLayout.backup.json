@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Unity Projects\\Plant-Cell\\Plant Cell\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD69F0AD-7376-8A7E-3804-576B459CF15A}|Assembly-CSharp.csproj|c:\\unity projects\\plant-cell\\plant cell\\assets\\scripts\\textmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD69F0AD-7376-8A7E-3804-576B459CF15A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\textmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD69F0AD-7376-8A7E-3804-576B459CF15A}|Assembly-CSharp.csproj|c:\\unity projects\\plant-cell\\plant cell\\assets\\scripts\\simulationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD69F0AD-7376-8A7E-3804-576B459CF15A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\simulationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD69F0AD-7376-8A7E-3804-576B459CF15A}|Assembly-CSharp.csproj|c:\\unity projects\\plant-cell\\plant cell\\assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD69F0AD-7376-8A7E-3804-576B459CF15A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD69F0AD-7376-8A7E-3804-576B459CF15A}|Assembly-CSharp.csproj|c:\\unity projects\\plant-cell\\plant cell\\assets\\scripts\\langsupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD69F0AD-7376-8A7E-3804-576B459CF15A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\langsupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpawnManager.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Plant-Cell\\Plant Cell\\Assets\\Scripts\\SpawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnManager.cs",
+              "ToolTip": "C:\\Unity Projects\\Plant-Cell\\Plant Cell\\Assets\\Scripts\\SpawnManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T15:55:53.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TextManager.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Plant-Cell\\Plant Cell\\Assets\\Scripts\\TextManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TextManager.cs",
+              "ToolTip": "C:\\Unity Projects\\Plant-Cell\\Plant Cell\\Assets\\Scripts\\TextManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TextManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T15:55:37.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimulationConfig.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Plant-Cell\\Plant Cell\\Assets\\Scripts\\SimulationConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SimulationConfig.cs",
+              "ToolTip": "C:\\Unity Projects\\Plant-Cell\\Plant Cell\\Assets\\Scripts\\SimulationConfig.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SimulationConfig.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T15:55:08.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LangSupport.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Plant-Cell\\Plant Cell\\Assets\\Scripts\\LangSupport.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LangSupport.cs",
+              "ToolTip": "C:\\Unity Projects\\Plant-Cell\\Plant Cell\\Assets\\Scripts\\LangSupport.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LangSupport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T15:22:54.479Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
